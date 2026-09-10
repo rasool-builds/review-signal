@@ -22,3 +22,4 @@ The goal is to determine whether the additional process signal improves review p
 ## Important
 
 This is a research experiment, not a production code-review tool yet.
+V0 telemetry experiment in progress.
